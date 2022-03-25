@@ -1,5 +1,5 @@
 {
-    "name": "aiwozhe/laravel-socialite-providers-apple",
+    "name": "yikuaiyu/laravel-socialite-providers-apple",
     "description": "Apple Sign In OAuth2 Provider for Laravel Socialite",
     "license": "MIT",
     "authors": [{
@@ -8,9 +8,6 @@
     }, {
         "name": "xiami",
         "email": "jhdxr@php.net"
-    }, {
-        "name": "sunqj",
-        "email": "aiwozhe@yeah.net"
     }],
     "require": {
         "php": "^7.2",
